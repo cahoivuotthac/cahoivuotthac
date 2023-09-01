@@ -18,16 +18,20 @@
 </p>
 
 </p>
+<br>
+<br>
+<br>
 
-</p>
-<br>
-<br>
-<br>
-<br>
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cahoivuotthac&show_icons=true&locale=en" alt="cahoivuotthac">
-</p>
 
-<p style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cahoivuotthac" alt="cahoivuotthac">
-</p>
+
+# 🤖 Github status:
+![](https://github-readme-stats.vercel.app/api?username=cahoivuotthac&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=cahoivuotthac&theme=tokyonight&hide_border=false)<br/>
+
+
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
