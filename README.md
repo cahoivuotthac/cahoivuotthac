@@ -11,12 +11,11 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/hien phan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hien phan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hien-phan-454b58232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hien phan" height="30" width="40" /></a>
 <a href="https://instagram.com/_cahoivuotthac_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_cahoivuotthac_" height="30" width="40" /></a>
 <a href="https://discord.gg/_cahoivuotthac_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_cahoivuotthac_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cahoivuotthac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cahoivuotthac" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZgYtCC8_42SnFzsTDHtmnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cahoivuotthac" height="30" width="40" /></a>
 </p>
-
 </p>
 <br>
 <br>
@@ -25,13 +24,11 @@
 
 
 # 🤖 Github status:
-![](https://github-readme-stats.vercel.app/api?username=cahoivuotthac&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cahoivuotthac&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
+<br>
+<div style="text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cahoivuotthac&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
+</div>
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=cahoivuotthac&theme=tokyonight&hide_border=false)<br/>
-
-
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
