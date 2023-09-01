@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning - **Dart, Flutter, Git, C++**
+- 🌱 I’m currently learning - **CS50, Dart, Flutter, Git, C++**
 - 📫 How to reach me - **thuyhienphanthi2004@gmail.com**
 - ⚡ Fun fact - **I have a deep appreciation for coffee and music**
 
