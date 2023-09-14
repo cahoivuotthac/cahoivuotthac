@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👉 How to reach me - **thuyhienphanthi2004@gmail.com**
-- 🤘 Fun fact - **I can't go a day without my daily dose of Iced Americano**
+- 🤘 Fun fact - **I cannot imagine without my daily dose of Iced Americano**
 
 <h3 align="left">Connect with me:</h3>
 
