@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, my name is Hien Phan</h1>
 
-<h3 align="center">How's life treating you recently? Anyway, I hope everything's been going smoothly with you guys </h3>
+<h3 align="center"> Remember that Rome wasn't built in a day. </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/78/17/04/7817047889af38d483287d632d383e6e.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
