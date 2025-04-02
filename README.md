@@ -8,7 +8,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/hien-phan-454b58232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hien phan" height="30" width="40" /></a>
-
+<a target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/32666b13-48a5-423b-91a8-0e27c312a270)
+" alt="hien phan" height="30" width="40" /></a>
 </p>
 </p>
 <br>
