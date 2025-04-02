@@ -2,7 +2,7 @@
 <h4 align="center">A passionate data engineer from Vietnam!</h4>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/78/17/04/7817047889af38d483287d632d383e6e.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""/></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" height="80" width="100"/></a> </p>
 
 <h3 align="left">Connect with me: </h3>
 
