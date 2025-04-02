@@ -15,7 +15,7 @@
 <h3 align="left">:dart: Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vim,python,aws,terraform,mysql,postgresql,kafka,linux" />
+    <img src="https://skillicons.dev/icons?i=python,linux" />
   </a>
 </p>
 
