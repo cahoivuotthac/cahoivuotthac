@@ -1,9 +1,10 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Hien Phan</h1>
 <br>
 👨‍💻 A data lover from Vietnam! <br>
-🌱 I’m currently learning **ETL, ELT, Big Data, Cloud**
+
 
 <img align="right" alt="Coding" width="400" height="250" src="https://i.pinimg.com/originals/78/17/04/7817047889af38d483287d632d383e6e.gif">
+<br>
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
