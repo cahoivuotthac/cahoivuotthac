@@ -11,12 +11,3 @@
 💬 Chat with me on Discord: [![Discord](https://img.shields.io/badge/Discord-Hien%20Phan-5865F2?logo=discord&logoColor=white)](https://discord.com/users/928058127885172756)
 
 <br><br><br> <!-- Extra space before GitHub status -->
-
-<h3 align="left">:dart: Languages and Tools:</h3>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux" />
-  </a>
-</p>
-
-<br>
