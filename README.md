@@ -1,7 +1,3 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Hien Phan</h1>
-
-<img align="right" alt="Coding" width="400" height="280" src="https://i.pinimg.com/originals/78/17/04/7817047889af38d483287d632d383e6e.gif">
-
 🔭 Living, learning, and thriving in a data-driven world
 
 📫 Email me: [thuyhienphanthi2004@gmail.com](mailto:thuyhienphanthi2004@gmail.com)
